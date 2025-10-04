@@ -16,7 +16,7 @@ Each member of the faculty and clerical personnel of the AUSD also received an H
 
 Alhambra High School (AHS) is located in an urban area about 7 miles east of downtown Los Angeles and about 5 miles south of the city of Pasadena. About 45% of AHS students are Asian, 45% Hispanic and 10% other groups. The vast majority of the students receive some type of financial assistance either from the state or federal governments. Practically all AHS students qualify to receive free lunch.
 
-
+The budget to purchase software is very limited at AUSD, but teachers have te opportunity to attend free professional development seminars at the district offices about web-based programs and applications. The AUSD computer technology service office is fairly well supplied and thier assistance is also very good and quick to respond. Each of the three high schools at AUSD has a full-time computer technology assistant.
 
 ## Plan
 

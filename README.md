@@ -1,4 +1,4 @@
-# **Educational Technology Plan**
+#H1 **Educational Technology Plan**
 
 Provide a brief description of the purpose of your educational technology Plan
 

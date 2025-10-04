@@ -1,6 +1,6 @@
-#H1 **Educational Technology Plan**
+# **Educational Technology Plan**
 
-Provide a brief description of the purpose of your educational technology Plan
+The present *Educational Technology Plan* (ETP) describes the main steps that will be implemented in my classes at **Alhambra High School, California**. As computer technology continues to be an intergral part of the workforce in our society, I consider such technology to be a relevant in high school educaion. My gal is to incorporate computer technology in my teaching so the students can use it to learn the subject more efficiently and *to acquire computer skills to solve mathemtical problems*. In addition, I want to show my students how computer technology is used in real fie situations.
 
 ## Context
 

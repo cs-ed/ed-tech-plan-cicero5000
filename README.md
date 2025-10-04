@@ -25,7 +25,9 @@ The budget to purchase software is very limited at AUSD, but teachers have te op
 1. Class Management
    1. Google Classroom: all class material used in class such as general announcements, PowerPoint presentations, class assignments, homework assignments quizzes, tests are organized in each class section.
 2. Class Delivery:
-   1. PowerPoint presentations and Google slides: the textbook publisher created several PowerPoint presentations to be used in thedelivery of the class material; I have created a few more slides using Google slides.
+   1. PowerPoint presentations and Google slides: the textbook publisher created several PowerPoint presentations to be used in the delivery of the class material; I have created a few more slides using Google slides.
+   2. Google Vids: short videos created by the teacher explaining key concepts related to the lesson. Students can watch the Google Vids as a review on their own or at home when they are absent from school.
+   3. Stapplet.com: This is a web-based computer program originally created by the publisher of the textbook (BFW Publishers) to answer and study the problems, questions and activities described in the textbook. Now it is under the management of the organization mathmedic. 
 
 ### Hardware Specifications
 

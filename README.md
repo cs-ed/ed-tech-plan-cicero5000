@@ -24,10 +24,19 @@ The budget to purchase software is very limited at AUSD, but teachers have te op
 
 1. Class Management
    1. Google Classroom: all class material used in class such as general announcements, PowerPoint presentations, class assignments, homework assignments quizzes, tests are organized in each class section.
-2. Class Delivery:
+2. Class Delivery
    1. PowerPoint presentations and Google slides: the textbook publisher created several PowerPoint presentations to be used in the delivery of the class material; I have created a few more slides using Google slides.
    2. Google Vids: short videos created by the teacher explaining key concepts related to the lesson. Students can watch the Google Vids as a review on their own or at home when they are absent from school.
-   3. Stapplet.com: This is a web-based computer program originally created by the publisher of the textbook (BFW Publishers) to answer and study the problems, questions and activities described in the textbook. Now it is under the management of the organization mathmedic. 
+   3. Stapplet.com: This is a free web-based satistics computer program originally created by the publisher of the textbook (BFW Publishers) to answer and study the problems, questions and activities described in the textbook. Now it is under the management of the organization mathmedic.
+   4. Google Sheets: to compensate a few limitations of stapplet.com Google sheets are used to teach about graphical displays of data and formatting of existing graphs.
+3. Class Assessment
+   1. Google Forms: short and quick assesments are created using Google Forms. Students receive immediate feedback about their answers. The questions on each of these assessments can be shuffled to minimize cheating.
+   2. ZipGrade: longer and more complex assessments are created using ZipGrade. Students receive immediate feedback about their answers. The questions on each of these assessments can be shuffled to minimize cheating.
+   3. PowerTeacher: AUSD has adopted in all their schools to use PowerTeacher as the required gradebook.
+4. Communication
+   1. Zoom: some faculty meetings, parent-teacher conferences, professional development seminars are conducted through Zoom.
+  
+All the aformentioned web-based software have been seleted to use at AUSD schools because they are fully compatible with the students' OS HP Chromebooks. 
 
 ### Hardware Specifications
 

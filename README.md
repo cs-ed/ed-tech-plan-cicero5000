@@ -10,9 +10,9 @@ This ETP will be implemented during the teaching of *Elementary Satistics and Pr
 
 ### Situation
 
-The changes in the workforce, regarding data science and statistics, during the past years prompted the Alhambra Unified School District (AUSD) to start teaching Elementary Statistics and Probability at its three high school campuses. Due to budget constrains the Introduction to Data Science class has been discontinued. However, in the last 5 to 6 years, AUSD has provided all of its high school students an HP Chromebookto imcrease access to educational resources across multiple subjects and to umprove delivery of educational material. This ETP is thus, a response to the AUSD's directives to incorporate computer technology in our teaching.
-Each member of the faculty and clerical personnel of the AUSD also received an HP laptop to perform their respective job duties. Due to safety and confidentiality issues, no one is allowed to use their personal computer / laptop / tablet while at work in our campuses. Access to the AUSD Internet network is blocked to non-AUSD electronic devices (including students).
+The changes in the workforce, regarding data science and statistics, during the past years prompted the Alhambra Unified School District (AUSD) to start teaching Elementary Statistics and Probability at its three high school campuses. Due to budget constrains the Introduction to Data Science class has been discontinued. However, in the last 5 to 6 years, AUSD has provided all of its high school students an HP Chromebook to imcrease access to educational resources across multiple subjects and to umprove delivery of educational material. This ETP is thus, a response to the AUSD's directives to incorporate computer technology in our teaching.
 
+Each member of the faculty and clerical personnel of the AUSD also received an HP laptop to perform their respective job duties. Due to safety and confidentiality issues, no one is allowed to use their personal computer / laptop / tablet while at work in our campuses. Access to the AUSD Internet network is blocked to non-AUSD electronic devices (including students).
 
 ## Plan
 

@@ -40,8 +40,9 @@ All the aformentioned web-based software have been seleted to use at AUSD school
 
 ### Hardware Specifications
 
-Describe the hardware requirements for your class. Provide specific requirements
-wherever necessary.
+1.Teacher's laptop
+   - HP ProBook 440 14 inch G10 Notebook PC.
+   - 237 GB SSD Storage.
 
 ### Application
 

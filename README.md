@@ -51,7 +51,7 @@ All the aformentioned web-based software have been seleted to use at AUSD school
 *Note: teachers at AUSD have access at two Google accounts: one for professional, job related material and another to teach / interact with students (class related issues). Each account provides considerable amounts of cloud stoage.*
 
 2. Student's HP Chromebook
-   The students' HP chromebooks vary from one another. Some are new while others are 3 to 4 years old. All use the Chrome OS. Unfotunately, I do not have access to additional specifications. AUSD school discontinued the use of computer labs a few years ago.
+   The students' HP chromebooks vary from one another. Some are new while others are three to four years old. All use the Chrome OS. Unfotunately, I do not have access to additional specifications. AUSD school discontinued the use of computer labs a few years ago.
 
 ### Application
 

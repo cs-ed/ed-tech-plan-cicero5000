@@ -55,9 +55,9 @@ All the aformentioned web-based software have been seleted to use at AUSD school
 
 ### Application
 
-Describe how you will use the above technologies in the class, including
-in-class activities, homework, assignments, and assessment. Justify the use
-in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
+Each new lesson starts with a hands-on activity; it includes students collecting and organizing data in a Google sheet and/or Google document. At the same time, the students have access to the PowerPoint slides that explain the theoretical aspect of the lesson. After the students have completed the hand-on activity, the teacher provides guided intruction by projecting his laptop screen into the classroom screen via an Epson projector. The students learn, during that time, how to use the different components of the stapplet.com website: different types of statistical graphs, linear regression, five-number summary, claim testing, probability calculations and few other topics. After the guided instruction, students work independently or in small groups (3 or 4students) on similar problems to the guided instructions. The students check each other's work and write a final report providing their reasoning and evidence that support their conclusions. The report is written on a Google document and submitted to the teacher via Google classroom.
+
+All lesson assignments, instruction and support materials are organized in the class Google classroom. At the begginning of the lesson, the teacher provides a short introduction about what to do and the students start working as instructed. The Google vids provide information about the lesson (short lecture), instructions on how to complete the assignments and how to use the stapplet.com website for that particular lesson. Some students watch Google vids to listen again for instructions, the lecture for the day or to clarify some concepts they did not understand well. The Google vids are also available to the students who were absent; students can watch the Google vids to learn about the lesson, they aslo have access to the PowerPoint slides, textbook and stapplet.com website to complete the class assignments for the day.  
 
 ### Impacts
 

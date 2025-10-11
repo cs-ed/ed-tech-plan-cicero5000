@@ -59,6 +59,10 @@ Each new lesson starts with a hands-on activity; it includes students collecting
 
 All lesson assignments, instruction and support materials are organized in the class Google classroom. At the begginning of the lesson, the teacher provides a short introduction about what to do and the students start working as instructed. The Google vids provide information about the lesson (short lecture), instructions on how to complete the assignments and how to use the stapplet.com website for that particular lesson. Some students watch Google vids to listen again for instructions, the lecture for the day or to clarify some concepts they did not understand well. The Google vids are also available to the students who were absent; students can watch the Google vids to learn about the lesson, they aslo have access to the PowerPoint slides, textbook and stapplet.com website to complete the class assignments for the day.  
 
+Google forms are used in the classromm for short, quick assessments: about 5 multiple choice questions or short answers. Google forms can automatically shuffle the order of the questions and multiple choice answers to minimize cheating. ZipGrade is used to create longer, more complex tests. During these tests, students have access to the stapplet.com website to do the approperiaate statistical calculations.
+
+Students who are not competent in English yet, often use Google translator to complete the class assignments, tests and to communicate with the teacher. Regardless of their nativ language, all class assignments are to be completed and submitted to the teacher in English.
+
 ### Impacts
 
 How will the technology help *all* students learn? In this section, you can also
